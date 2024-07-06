@@ -1,4 +1,4 @@
-#!/bi/bash
+#!/bin/bash
 echo "================="
 
 git config --global user.name "${GITHUB_ACTOR}"
